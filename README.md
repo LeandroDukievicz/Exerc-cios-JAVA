@@ -4,3 +4,6 @@
 
 <img height = "250em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
+#
+
+[**Exercicio 01**](https://github.com/LeandroDukievicz/Exercises_JAVA/blob/main/First-Exercise/Atv01structured.java) 
