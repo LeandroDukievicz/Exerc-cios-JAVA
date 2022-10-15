@@ -6,7 +6,7 @@
 
 #
 
-[**Readme do Exercício 01** ](https://github.com/LeandroDukievicz/Exercises_JAVA/blob/main/First-Exercise/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[** Resolução Exercicio 01**](https://github.com/LeandroDukievicz/Exercises_JAVA/blob/main/First-Exercise/Atv01structured.java) <br>
+[**Readme do Exercício 01** ](https://github.com/LeandroDukievicz/Exercises_JAVA/blob/main/First-Exercise/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[**Resolução Exercicio 01**](https://github.com/LeandroDukievicz/Exercises_JAVA/blob/main/First-Exercise/Atv01structured.java) <br>
 
 <p> Exercício 01 - Programa Básico em Java para realizar uma pesquisa eleitoral.
 
