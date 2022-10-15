@@ -8,7 +8,7 @@
 
 [**Readme do Exercício 01** ](https://github.com/LeandroDukievicz/Exercises_JAVA/blob/main/First-Exercise/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[**Resolução Exercicio 01**](https://github.com/LeandroDukievicz/Exercises_JAVA/blob/main/First-Exercise/Atv01structured.java) <br>
 
-<p> Exercício 01 - Programa Básico em Java para realizar uma pesquisa eleitoral.
+<p>Programa Básico em Java, primeiro contato com a linguagem, consiste em realizar uma pesquisa eleitoral ao qual no ínicio é informado a quantidade de votantes, feito o input dos votantes e a saída é realizada mostrando a porcentagem de votos que cada candidato recebeu. Usado estruturas básicas de entrada de dados e laço de repeticao for e switch case para selecionar candidatos.
 
 #
 
