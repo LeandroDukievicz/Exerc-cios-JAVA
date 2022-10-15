@@ -17,4 +17,4 @@
 
 [**Ir até o Código**](https://github.com/LeandroDukievicz/Exercises_JAVA/blob/main/First-Exercise/Atv01structured.java)
 
-[**HOME - Pág Inicial Código**](https://github.com/LeandroDukievicz/Exercises_JAVA)
+[**HOME - Pág Inicial do Repositório**](https://github.com/LeandroDukievicz/Exercises_JAVA)
