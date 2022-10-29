@@ -1,15 +1,23 @@
 <div align ="center">
 
-<h1>Repositório Destinado a Treinamento em JAVA JSP  -   </h1>
+<h1>Repositório Prova final Sobre JAVA WEB JSP  -   </h1>
 
-<img height = "250em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img height="210em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
 
-#
+<p>Programa Básico em Java, Neste Exercício prático nos foi solicitado fazer alguns cálculos para obter custo de kilometragem de um motorista de aplicativo, com informativo e acréscimo de 15% para desgate e desvalorização do veículo, basicamente a regra de negócio era calcular o custo do combustível, autonomia do carro, custo dos pneus e revisão periódica, e após isso, gerar o resultado do valor de custo de cada km rodado.<br>
+Foi usado neste Projeto Página inicial com marcação em html e css para estilização, no index em html capturei as informações em um formulário e enviei via post para o servlet que recebeu, fez a tratativa das variáveis com a lógica  e devolveu com o resultado no servlet.
 
-[**Readme do Exercício 01** ](https://github.com/LeandroDukievicz/Exercises_JAVA/blob/main/First-Exercise/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[**Resolução Exercicio 01**](https://github.com/LeandroDukievicz/Exercises_JAVA/blob/main/First-Exercise/Atv01structured.java) <br>
+IDE - NETBEANS e TOMCAT 
 
-<p>Programa Básico em Java, primeiro contato com a linguagem, consiste em realizar uma pesquisa eleitoral ao qual no ínicio é informado a quantidade de votantes, feito o input dos votantes e a saída é realizada mostrando a porcentagem de votos que cada candidato recebeu. Usado estruturas básicas de entrada de dados e laço de repeticao for e switch case para selecionar candidatos.
+  </p>
 
-#
 
+<div align="center">
+      <img height ="500" src="https://github.com/LeandroDukievicz/Exercises_JAVA/blob/main/Exercicio%20Java%20JSP%20Servlet/gif-final.gif"/>
+</div>  
+
+  
+
+  <div align="center">
+<a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="120" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/home%20page%20button.gif" target="_blank">
+</div>     
 
