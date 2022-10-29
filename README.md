@@ -12,4 +12,7 @@
 
 #
 
+[**Readme Ex 2**](https://github.com/LeandroDukievicz/Exercises_JAVA/blob/main/Exercicio%20Java%20JSP%20Servlet/README.md)&nbsp;&nbsp;&nbsp;&nbsp;[**Resolução Exercício 02**](https://github.com/LeandroDukievicz/Exercises_JAVA/tree/main/Exercicio%20Java%20JSP%20Servlet/src/main/webapp)
+
+<p> Nesta Prova prática, foi necessário um aprofundamento maior em java server pages, onde foi necessário usar servlet para gerar o resultado e fazer a tratativa vindo da página index.html você pode conferir clicando nos links acima!!!</p>
 
