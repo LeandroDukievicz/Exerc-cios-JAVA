@@ -1,0 +1,158 @@
+/*reset css*/
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*--------------------------*/
+
+body{
+     width: 100vw;
+     height:auto;
+     background-image: url("gas-station-white.jpg");
+}
+
+h1{
+   align-items: center;
+   color:#607D8B;
+   margin-top: 15px;
+   padding:10px;
+   border-radius: 7px;
+   letter-spacing: 0.6em;
+   animation:h1-header 2s infinite alternate;
+   box-shadow: 0 3px 3px rgba(0, 0, 0, 0.5);
+   backdrop-filter: blur(2px);
+}
+
+h3{
+    color:#607D8B;
+    margin-top:55px;
+}
+
+@keyframes h1-header{
+    0%{
+       filter:drop-shadow(3px 3px 3px rgb(118, 116, 119));
+    }
+    25%{
+        filter:drop-shadow(4px 4px 4px rgb(82, 82, 82));
+    }
+    50%{
+        filter:drop-shadow(5px 5px 5px rgb(80, 80, 80));
+    }
+    75%{
+        filter:drop-shadow(6px 6px 6px rgb(66, 66, 66));
+    }
+    100%{
+        filter:drop-shadow(6px 6px 6px rgb(66, 66, 66));
+    }
+}
+
+section{
+    display:flex;
+    justify-content: center;
+}
+
+#Formulário{
+    display: flex;
+    justify-content: center;
+}
+
+.form{
+    margin-top: 15px;
+    display:flex;
+    justify-content: center;
+    justify-content: center;
+    width:60vw;
+    height:auto;
+    border:2px inset #CFD8DC;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius:50px ;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(2px);
+}
+
+form{
+    display:flex;
+    justify-content: center;
+    padding:10px;    
+    width: 90%;
+    height:auto;
+    display: flex;
+    flex-direction: column;
+}
+
+label,input{
+    padding:5px;
+    filter: drop-shadow(2px 2px 2px #d5d5d5);
+}
+
+label{
+    color:#000;
+    filter: drop-shadow(1px 1px 1px #607D8B);
+}
+input{
+    padding:5px;
+    border-radius: 5px;
+    border:1px inset #d5d5d5;
+}
+
+#obs{
+    margin:0 auto;
+    padding:8px;
+    font-size:0.9rem;
+    color: #000;
+    filter: drop-shadow(1px 1px 1px #B71C1C);
+}
+
+button{
+    width:50%;
+    height:auto;
+    margin:0 auto;
+    padding:10px;
+    border:none;
+    border-radius: 5px;
+    color:#CFD8DC;
+    background: linear-gradient(to right, #8e0e00, #1f1c18); 
+    cursor:pointer; 
+}
+
+button :hover{
+    transition:1s;
+    letter-spacing: 0.4rem; 
+}
+
+footer{
+    margin-top: 85px;
+    display:flex;
+    justify-content: center;
+    filter: drop-shadow(2px 2px 2px #646363);
+}
+
+  h4 {
+       color:#607D8B;
+        filter: drop-shadow(2px 2px 2px #000);
+        font-size: 1.2rem;
+        white-space: nowrap;
+        overflow: hidden;
+        animation: typewriter 4s steps(13) infinite alternate,
+          blink 800ms steps(13) infinite normal;
+          border-right: 5px solid black;
+      }
+      
+      @keyframes typewriter {
+        from {
+          width: 0%;
+        }
+        to {
+          width: 50%;
+        }
+      }
+      @keyframes blink {
+        from {
+          border-color: black;
+        }
+        to {
+          border-color: transparent;
+        }
+      }

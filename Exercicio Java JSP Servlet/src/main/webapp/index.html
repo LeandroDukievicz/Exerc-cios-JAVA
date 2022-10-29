@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cálculo KM </title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+         <link rel="stylesheet" href="style.css"> 
+    </head>
+    <body>
+        <section>
+             <header>
+                 <h1>Cálculo Km Rodado</h1>
+                 <h3>Insira os Dados do Veículo para iniciarmos o Calculo:</h3>
+             </header>            
+        </section>
+        
+        <section id="Formulário">
+            <div  class="form">
+                <form  method="post" action="./calculokm">
+                        <label>Modelo do Carro</label>
+                        <input type="text" name ="modeloCarro" placeholder="Insira aqui o Modelo do seu carro"/>
+                        <label>Valor Combustível</label>
+                        <input type="text" name ="combustivel" required  placeholder="R$/litro - último abastecimento " />
+                        <label>Rendimento do Carro</label>
+                        <input type="text" name ="rendimento" required placeholder="Informe quantos Km/L o carro faz. "/>   
+                        <label>Valor médio da revisão a cada 10.000 KM</label>
+                        <input type="text" name ="revisao" required placeholder="Informe o valor gasto neste período. "/>   
+                        <label>Valor de 04 Pneus que rodam 50.000 KM</label>
+                        <input type="text" name ="pneus" required placeholder="Informe o valor gasto na Troca dos Pneus. "/>  
+                        <p id="obs"><strong><i>Estima-se Acréscimo de 15% no cálculo  do KM rodado  por desgaste  e desvalorização do veículo</i></strong></p>
+                        <button type ="submit"><strong>Calcular</strong></button>
+                </form>                                
+            </div>
+        </section>
+        
+        <footer>
+            <h4>Desenvolvido por Leandro Dukiévicz - RA 21144207-5</h4>
+        </footer>
+    
+    </body>
+</html>

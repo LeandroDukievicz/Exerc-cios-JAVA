@@ -1,0 +1,133 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+     width: 100vw;
+     height:auto;
+     background-image: url("gas-station-neon.gif");
+}
+
+h1{   
+   color:#FFF;
+   margin-top: 15px;
+   margin-bottom:15px;
+   padding:5px;
+   border-radius: 7px;
+   letter-spacing: 0.3em;
+   animation:h1-header 2s infinite alternate;
+}
+
+h2{
+   color:#FFF;
+   margin-top: 15px;
+   padding:10px;  
+}
+
+section{
+    display:flex;
+    justify-content: center;
+}
+
+i{
+    color:#D50000;
+    font-size: 1.5rem;
+    padding:5px;
+    letter-spacing: 0.2rem;
+    filter: drop-shadow(2px 2px 2px #000);
+}
+
+strong{
+    color:#D50000;
+     filter: drop-shadow(1px 1px 1px #000);
+}
+
+p{
+    margin-top:15px;
+    margin-bottom: 10px;
+    color :#FFF; 
+    font-size: 1.3rem;
+    filter: drop-shadow(2px 2px 2px #000);
+}
+
+main{
+    width:50vw;
+    margin: 0 auto ;
+    margin-top: 15px;
+    border: 1px inset #FFF;
+    padding:10px;
+    border-radius:15px;
+    display: flex;
+     flex-direction: column;
+     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+}
+
+div{
+   margin: 0 auto;
+   padding:5px;
+   border-bottom: 2px solid #fff;
+}
+
+a{
+    text-decoration: none;
+    padding:10px;
+    margin: 0 auto;
+}
+
+button{
+    width: 35%;
+    height:auto;
+    background: linear-gradient(to right, #485563, #29323c);
+    padding:8px;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    border-bottom:  7px inset #000;
+    border-radius:10px;
+    cursor:pointer;
+}
+
+button :hover{
+    transition:1s;
+    letter-spacing: 0.2rem;
+}
+
+footer{
+    margin-top: 65px;
+    display:flex;
+    justify-content: center;
+    filter: drop-shadow(2px 2px 2px #646363);
+}
+
+  h4 {
+        color:#FFf;
+        filter: drop-shadow(2px 2px 2px #646363);
+        font-size: 1.2rem;
+        white-space: nowrap;
+        overflow: hidden;
+        animation: typewriter 4s steps(13) infinite alternate,
+          blink 800ms steps(13) infinite normal;
+          border-right: 5px solid black;
+      }
+      
+      @keyframes typewriter {
+        from {
+          width: 0%;
+        }
+        to {
+          width: 50%;
+        }
+      }
+      @keyframes blink {
+        from {
+          border-color: black;
+        }
+        to {
+          border-color: transparent;
+        }
+      }
+
