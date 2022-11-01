@@ -19,7 +19,7 @@
 #
 
   <div align="center">
-<a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="300em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/home.gif" target="_blank">
+<a  href="https://github.com/LeandroDukievicz" target="_blank"><img  height="350em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/btn-home.gif" target="_blank">
 </div>     
 
 
